@@ -1,0 +1,17 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "App that shrinks images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "keywords": [],
+  "author": "John",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.5",
+    "nodemon": "^2.0.4"
+  }
+}
